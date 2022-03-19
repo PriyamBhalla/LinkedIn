@@ -3,9 +3,6 @@ Power BI Dashboard For LinkedIn Data
 ![image](https://user-images.githubusercontent.com/65599483/150502835-e0c14de9-7337-4258-b8c5-9209d260f399.png)
 
 
-You can access this Power BI Dashboard here :
-
-https://app.powerbi.com/view?r=eyJrIjoiZGUzMjQyZDgtMDhhYi00NGI5LWFkZDQtYjRkMzk0ZWJjMWE0IiwidCI6ImM3ZjhjM2NlLTM4MjUtNGVjZi05ODdjLTFmODc4NmQwMTlhMiJ9
 
 This is a Power BI dashboard created with the help of LinkedIn data which I requested from LinkedIn. This LinkedIn data dashboard can help to get your insights of the usage of LinkedIn and also help to gain insights about your activity in the LinkedIn.
 
